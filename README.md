@@ -34,9 +34,9 @@ Ensure you have the following dependencies installed:
 
 ## Usage
 
-1. Clone this repository into your ROS workspace:
+1. **Clone this repository into your ROS workspace:**
 
-  ```bash
+    ```bash
     git clone https://github.com/geeksahil53/Wall-Centering-Bot.git
     ```
 
@@ -72,3 +72,4 @@ Ensure you have the following dependencies installed:
 If you encounter any issues or have suggestions for improvements, please create an issue on the repository. Contributions are welcome through pull requests.
 
 Happy robot controlling!
+
