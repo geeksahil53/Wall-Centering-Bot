@@ -36,8 +36,9 @@ Ensure you have the following dependencies installed:
 
 1. Clone this repository into your ROS workspace:
 
-   ```bash
- git clone https://github.com/geeksahil53/Wall-Centering-Bot.git
+  ```bash
+    git clone https://github.com/geeksahil53/Wall-Centering-Bot.git
+    ```
 
 2. **Build your workspace:**
 
