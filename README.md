@@ -5,7 +5,7 @@ This repository contains the necessary files and configurations to simulate a tw
 ## Contents
 
 - `m2wr_description/`: Folder containing URDF files and launch configurations for the robot simulation.
-- `motion_plan/`: Folder containing Python scripts for robot motion control and wall-centering behavior.
+- `motion_plan1/`: Folder containing Python scripts for robot motion control and wall-centering behavior.
 
 ## Robot Description (`m2wr_description`)
 
@@ -19,7 +19,7 @@ The `m2wr_description` folder contains the following files:
 
 ## Motion Planning and Control (`motion_plan`)
 
-The `motion_plan` folder contains the following files:
+The `motion_plan1` folder contains the following files:
 
 - `pid_final.py`: Python script for controlling the robot's motion and wall-centering behavior. It subscribes to laser scan data, IMU data, and publishes velocity commands to control the robot's motion. A PID (Proportional-Integral-Derivative) controller is used to maintain a desired distance from the walls while navigating.
 
